@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Services\\EDTLBS.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\EDTLBS.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\EDTLBS.Common.csproj",
+        "projectName": "EDTLBS.Common",
+        "projectPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\EDTLBS.Common.csproj",
+        "packagesPath": "C:\\Users\\Renuka1\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renuka1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.DAL\\EDTLBS.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.DAL\\EDTLBS.DAL.csproj",
+        "projectName": "EDTLBS.DAL",
+        "projectPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.DAL\\EDTLBS.DAL.csproj",
+        "packagesPath": "C:\\Users\\Renuka1\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renuka1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\EDTLBS.Common.csproj": {
+                "projectPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\EDTLBS.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Repository\\EDTLBS.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Repository\\EDTLBS.Repository.csproj",
+        "projectName": "EDTLBS.Repository",
+        "projectPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Repository\\EDTLBS.Repository.csproj",
+        "packagesPath": "C:\\Users\\Renuka1\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renuka1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\EDTLBS.Common.csproj": {
+                "projectPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\EDTLBS.Common.csproj"
+              },
+              "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.DAL\\EDTLBS.DAL.csproj": {
+                "projectPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.DAL\\EDTLBS.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Services\\EDTLBS.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Services\\EDTLBS.Services.csproj",
+        "projectName": "EDTLBS.Services",
+        "projectPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Services\\EDTLBS.Services.csproj",
+        "packagesPath": "C:\\Users\\Renuka1\\.nuget\\packages\\",
+        "outputPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Renuka1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\EDTLBS.Common.csproj": {
+                "projectPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Common\\EDTLBS.Common.csproj"
+              },
+              "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Repository\\EDTLBS.Repository.csproj": {
+                "projectPath": "C:\\Code\\EDTLBS\\EDTLBS\\EDTLBS.Repository\\EDTLBS.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\bin\Debug\net8.0\EDTLBS.Common.deps.json
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\bin\Debug\net8.0\EDTLBS.Common.dll
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\bin\Debug\net8.0\EDTLBS.Common.pdb
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\obj\Debug\net8.0\EDTLBS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\obj\Debug\net8.0\EDTLBS.Common.AssemblyInfoInputs.cache
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\obj\Debug\net8.0\EDTLBS.Common.AssemblyInfo.cs
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\obj\Debug\net8.0\EDTLBS.Common.csproj.CoreCompileInputs.cache
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\obj\Debug\net8.0\EDTLBS.Common.sourcelink.json
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\obj\Debug\net8.0\EDTLBS.Common.dll
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\obj\Debug\net8.0\refint\EDTLBS.Common.dll
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\obj\Debug\net8.0\EDTLBS.Common.pdb
+C:\Code\EDTLBS\EDTLBS\EDTLBS.Common\obj\Debug\net8.0\ref\EDTLBS.Common.dll

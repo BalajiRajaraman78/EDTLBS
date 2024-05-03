@@ -1,0 +1,6 @@
+@EDTLBS_HostAddress = http://localhost:5202
+
+GET {{EDTLBS_HostAddress}}/swagger/index.html
+Accept: application/json
+
+###

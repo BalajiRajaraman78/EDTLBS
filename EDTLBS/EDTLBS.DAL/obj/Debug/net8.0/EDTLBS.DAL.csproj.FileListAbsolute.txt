@@ -1,0 +1,16 @@
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\bin\Debug\net8.0\EDTLBS.DAL.deps.json
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\bin\Debug\net8.0\EDTLBS.DAL.dll
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\bin\Debug\net8.0\EDTLBS.DAL.pdb
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\bin\Debug\net8.0\EDTLBS.Common.dll
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\bin\Debug\net8.0\EDTLBS.Common.pdb
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\EDTLBS.DAL.csproj.AssemblyReference.cache
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\EDTLBS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\EDTLBS.DAL.AssemblyInfoInputs.cache
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\EDTLBS.DAL.AssemblyInfo.cs
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\EDTLBS.DAL.csproj.CoreCompileInputs.cache
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\EDTLBS.DAL.sourcelink.json
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\EDTLBS.DAL.csproj.Up2Date
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\EDTLBS.DAL.dll
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\refint\EDTLBS.DAL.dll
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\EDTLBS.DAL.pdb
+C:\Code\EDTLBS\EDTLBS\EDTLBS.DAL\obj\Debug\net8.0\ref\EDTLBS.DAL.dll

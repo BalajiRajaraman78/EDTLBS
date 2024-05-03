@@ -1,6 +1,4 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
-
-/EDTLBS/EDTLBS.sln
-/EDTLBS/EDTLBS.sln
+/EDTLBS/.vs

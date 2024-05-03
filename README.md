@@ -6,23 +6,15 @@
 ## Features
 This is a small library system where you would be able to perform ADD, Update, Delete, Get All books, Find Books based on ID.
 
-## Getting Started
-
-### Prerequisites
-- .NET Core 3.1 or later
-- Any other dependencies your project has
-
-### Installation
-1. Clone the repository: `https://github.com/BalajiRajaraman78/EDTLBS.git`
-2. Navigate to the project directory: `cd EDTLBS.git`
-3. Install the dependencies: `dotnet restore`
-
-### Usage
-1. Run the project: `dotnet run`
-2. The API will be available at `https://localhost:7246`
+## Getting Started &  Prerequisites
+1. Install git - [https://git-scm.com/downloads](https://git-scm.com/downloads).
+2. Install .NET Core 8.0 - [https://dotnet.microsoft.com/download/dotnet/8.0](https://dotnet.microsoft.com/download/dotnet/8.0).
+4. Install Visual Studio
+5. Open EDTLBS/EDTLBS/sln solution, make sure that's compiling.
+6. Navigate to `EDTLBS/EDTLBS` and run `dotnet run` to launch the api (ASP.NET Core Web API)
+7. Open web browser https://localhost:7246/swagger/v1/swagger.json Swagger UI
 
 ## API Endpoints
-- /swagger/v1/swagger.json
 - `GET /api/BookLibrary`: This is a Get API. Fetching all the books. 
 - `GET /api/BookLibrary/{id}`: This is a Get API. Fetching Book based on BookID. 
 - `POST /api/BookLibrary`: This is a Post API. 
